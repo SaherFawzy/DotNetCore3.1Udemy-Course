@@ -23,6 +23,7 @@ namespace SelenuimCSharpDotNetCore
             IWebElement comboBox = driver.FindElement(By.XPath("//input[@id='ContentPlaceHolder1_AllMealsCombo-awed']"));
             comboBox.Clear();
             comboBox.SendKeys("Mango");
+            System.Console.WriteLine("Test finish");
             Assert.Pass();
         }
     }

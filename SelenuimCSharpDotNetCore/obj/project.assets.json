@@ -1319,11 +1319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saher.fawzy\\source\\repos\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\saher.fawzy\\OneDrive - ITWorx\\Documents\\GitHub\\DotNetCore3.1Udemy-Course\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore.csproj",
       "projectName": "SelenuimCSharpDotNetCore",
-      "projectPath": "C:\\Users\\saher.fawzy\\source\\repos\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore.csproj",
+      "projectPath": "C:\\Users\\saher.fawzy\\OneDrive - ITWorx\\Documents\\GitHub\\DotNetCore3.1Udemy-Course\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore.csproj",
       "packagesPath": "C:\\Users\\saher.fawzy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saher.fawzy\\source\\repos\\SelenuimCSharpDotNetCore\\SelenuimCSharpDotNetCore\\obj\\",
+      "outputPath": "C:\\Users\\saher.fawzy\\OneDrive - ITWorx\\Documents\\GitHub\\DotNetCore3.1Udemy-Course\\SelenuimCSharpDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
